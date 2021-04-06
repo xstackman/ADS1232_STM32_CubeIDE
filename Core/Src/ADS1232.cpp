@@ -6,5 +6,7 @@
  */
 
 
+#include"ADS1232.h"
+
 
 
